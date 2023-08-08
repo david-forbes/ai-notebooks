@@ -1,4 +1,4 @@
 # ai-notebooks
-A growing collection of jupyter notebooks I have written.
+machine learning algorithm implementations
 
 Inspired by https://github.com/geohot/ai-notebooks
